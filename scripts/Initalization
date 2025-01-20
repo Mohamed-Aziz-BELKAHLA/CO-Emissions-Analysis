@@ -1,0 +1,17 @@
+%%bash
+sudo apt-get update
+sudo apt-get install -y r-base
+
+%%bash
+R --version
+
+%load_ext rpy2.ipython
+
+from google.colab import files
+gt_2011 = files.upload()
+gt_2012 = files.upload()
+gt_2013 = files.upload()
+gt_2014 = files.upload()
+gt_2015 = files.upload()
+
+
