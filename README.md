@@ -29,4 +29,4 @@ Run the Shiny app locally:
 ## Screenshot of the Dashboard
    ![CO Emissions Dashboard](images/image.png)
 ## Presentation
-   [View Canva Presentation]([https://www.canva.com/your-presentation-link](https://www.canva.com/design/DAGZIzOwp44/c89pkOlnE1aah88sGO9GIQ/edit?utm_content=DAGZIzOwp44&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+   [View Canva Presentation]([https://www.canva.com/design/DAGZIzOwp44/c89pkOlnE1aah88sGO9GIQ/edit?utm_content=DAGZIzOwp44&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
