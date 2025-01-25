@@ -24,14 +24,3 @@ Clone this repository.
 Run the scripts in the scripts/ folder in order.
 
 View the results in the results/ folder.
-
-Dashboard
-Run the Shiny app locally:
-
-Open the app.R file in RStudio.
-
-Click Run App or use:
-
-R
-Copy
-shiny::runApp("path/to/shiny_app")
