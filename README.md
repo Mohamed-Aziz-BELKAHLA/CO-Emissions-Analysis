@@ -1,23 +1,37 @@
-# CO Emissions Analysis
-
-## Description
+CO Emissions Analysis
+Description
 This project analyzes the factors affecting CO emissions using multiple linear regression and statistical tests. The dataset includes variables such as AT, AP, AH, AFDP, GTEP, TIT, TAT, TEY, CDP, CO, and NOX.
 
-## Steps
-1. Data Preparation: Handling missing values, outliers, and imputation.
-2. Exploratory Data Analysis: Boxplots, histograms, and correlation analysis.
-3. Regression Modeling: Multiple linear regression with residual analysis.
-4. ANOVA: Assessing the significance of variables.
+Steps
+Data Preparation: Handling missing values, outliers, and imputation.
 
-## Results
-- AFDP and TEY were not statistically significant and were removed from the model.
-- Multicollinearity was addressed by removing GTEP, CDP, and AP.
-- Residual analysis confirmed the model's assumptions.
+Exploratory Data Analysis: Boxplots, histograms, and correlation analysis.
 
-## How to Run
-1. Clone this repository.
-2. Run the scripts in the `scripts/` folder in order.
-3. View the results in the `results/` folder.
+Regression Modeling: Multiple linear regression with residual analysis.
 
-## Dashboard
-Access the interactive dashboard [here](#) (link to your deployed dashboard).
+ANOVA: Assessing the significance of variables.
+
+Results
+AFDP and TEY were not statistically significant and were removed from the model.
+
+Multicollinearity was addressed by removing GTEP, CDP, and AP.
+
+Residual analysis confirmed the model's assumptions.
+
+How to Run
+Clone this repository.
+
+Run the scripts in the scripts/ folder in order.
+
+View the results in the results/ folder.
+
+Dashboard
+Run the Shiny app locally:
+
+Open the app.R file in RStudio.
+
+Click Run App or use:
+
+R
+Copy
+shiny::runApp("path/to/shiny_app")
