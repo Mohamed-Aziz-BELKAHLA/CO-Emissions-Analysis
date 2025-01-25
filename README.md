@@ -25,8 +25,7 @@ Run the Shiny app locally:
 2. Click **Run App** or use:
    ```R
    shiny::runApp("path/to/shiny_app")
-''R
 ## Screenshot of the Dashboard
    ![CO Emissions Dashboard](images/image_2025-01-25_050807107.png)
 ## Presentation
-   [View Canva Presentation]([https://www.canva.com/design/DAGZIzOwp44/c89pkOlnE1aah88sGO9GIQ/edit?utm_content=DAGZIzOwp44&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
+[View Canva Presentation](https://www.canva.com/design/DAGZIzOwp44/c89pkOlnE1aah88sGO9GIQ/edit?utm_content=DAGZIzOwp44&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
